@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Data Dynamics (DDTI)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Scioto County Government", category: "Government", subcategory: "County", url: "https://www.sciotocountyoh.com/", description: "Official Scioto County government website with departments and services." },
